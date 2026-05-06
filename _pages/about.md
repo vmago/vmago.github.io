@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Data and Text Analytics Lab"
+title: "Data and Text Analytics Lab (DaTALab)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Data and Text Analytics Lab
 
 The Data and Text Analytics Lab develops AI, natural language processing, and data analytics methods to support health systems, public health surveillance, and clinical decision-making.
 
